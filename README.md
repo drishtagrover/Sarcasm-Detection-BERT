@@ -1,4 +1,5 @@
-Sarcasm Detection using BERT
+🤖Sarcasm Detection using BERT
+
 This project focuses on detecting sarcasm in textual data using a pre-trained BERT (Bidirectional Encoder Representations from Transformers) model. Sarcasm detection is a challenging task in Natural Language Processing (NLP) as it requires a deep understanding of context, tone, and subtle language cues. Leveraging BERT's contextual embedding capabilities significantly enhances the accuracy of sarcasm detection models.
 
 📌 Table of Contents
